@@ -6,5 +6,6 @@ git remote add origin https://github.com/your-name/rsschool-2019Q1-codeacademy.g
 git push -u origin master
 
 Sergey Rabchuk
+HTML CSS Basics:
 https://www.codecademy.com/users/wabegopr98/achievements
 https://htmlacademy.ru/profile/id532617
